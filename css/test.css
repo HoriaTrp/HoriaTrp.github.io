@@ -1,0 +1,12 @@
+body{background: lightgoldenrodyellow;}
+h1{font-size: 40px; 
+color: hotpink;
+font-family: : tahoma}
+
+h2{color: red;
+font-family: arial;}
+.big{font-size: 80px;}
+.uppercase{text-transform: uppercase;}
+.big.uppercase{font-size: 30px;
+color: darksalmon}
+h1 span{color: navy;}
